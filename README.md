@@ -1,9 +1,9 @@
-
-
+View Project Demo here: https://youtu.be/PIq2DZxHsNs
 # TheTeamGenerator                   
 
 ## Description
 Creates an html page for a manager with the current team of interns and engineers with functional links
+![](https://github.com/NateJonesIII/TheTeamGenerator/blob/master/Assets/Example%20Page.PNG)
 
 ## Table of contents 
 [Installation](#installation)
